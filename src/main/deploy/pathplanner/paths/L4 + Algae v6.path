@@ -1,0 +1,109 @@
+{
+  "version": "2025.0",
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 7.848,
+        "y": 5.306
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 6.5640710178654125,
+        "y": 2.195853905469679
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 5.081504461655435,
+        "y": 2.991414826948481
+      },
+      "prevControl": {
+        "x": 5.3855587984196704,
+        "y": 2.463717251280663
+      },
+      "nextControl": {
+        "x": 4.956692924494817,
+        "y": 3.208029877652729
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 7.958842139373996,
+        "y": 5.072934084983197
+      },
+      "prevControl": {
+        "x": 5.939633737524751,
+        "y": 1.588924212428286
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": null
+    }
+  ],
+  "rotationTargets": [
+    {
+      "waypointRelativePos": 0.9999999999999999,
+      "rotationDegrees": 119.99999999999999
+    }
+  ],
+  "constraintZones": [],
+  "pointTowardsZones": [],
+  "eventMarkers": [
+    {
+      "name": "A2 Prep",
+      "waypointRelativePos": 0.5016872890888708,
+      "endWaypointRelativePos": null,
+      "command": {
+        "type": "named",
+        "data": {
+          "name": "A2 Prep"
+        }
+      }
+    },
+    {
+      "name": "BargePrep3",
+      "waypointRelativePos": 1.6086175942549326,
+      "endWaypointRelativePos": null,
+      "command": {
+        "type": "named",
+        "data": {
+          "name": "BargePrep"
+        }
+      }
+    },
+    {
+      "name": "BargeScore3",
+      "waypointRelativePos": 1.9389587073608614,
+      "endWaypointRelativePos": null,
+      "command": {
+        "type": "named",
+        "data": {
+          "name": "Outtake"
+        }
+      }
+    }
+  ],
+  "globalConstraints": {
+    "maxVelocity": 4.0,
+    "maxAcceleration": 4.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0,
+    "nominalVoltage": 12.0,
+    "unlimited": false
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 180.0
+  },
+  "reversed": false,
+  "folder": "CoralBall",
+  "idealStartingState": {
+    "velocity": 0,
+    "rotation": 180.0
+  },
+  "useDefaultConstraints": false
+}
