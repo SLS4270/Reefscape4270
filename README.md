@@ -13,9 +13,8 @@ Final robot code for team 4270: Crusaders.
 
 ## Authors
 
-- [@MrBotBoy](https://github.com/MrBotBoy)
-- [@DevColaDavid](https://github.com/DevColaDavid)
-- [@LAUJAU](https://github.com/LAUJAU)
-- [@eggstoast](https://github.com/eggstoast)
-- [@dsgsgragraehre](https://github.com/dsgsgragraehre)
+- [@MrBotBoy (Sebastian)](https://github.com/MrBotBoy)
+- [@DevColaDavid (David)](https://github.com/DevColaDavid)
+- [@LAUJAU (Jayden)](https://github.com/LAUJAU)
+- [@eggstoast (Elia)](https://github.com/eggstoast)
 
